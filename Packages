@@ -1,0 +1,117 @@
+<!-- Packages section -->
+<section id="packages">
+<div class="container">
+<h2>Popular Packages</h2>
+<div class="package">
+<div class="package-details">
+<h3>Package 1</h3>
+<p>Duration: 7 days</p>
+<p>Destinations: Delhi, Agra, Jaipur</p>
+<p>Highlights: Visit the Taj Mahal, explore historical monuments, experience vibrant culture</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+</div>
+<div class="package">
+<div class="package-details">
+<h3>Package 2</h3>
+<p>Duration: 10 days</p>
+<p>Destinations: Kerala</p>
+<p>Highlights: Houseboat stay in the backwaters, wildlife safari, Ayurvedic spa experience</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+</div>
+<!-- Add more packages -->
+<div class="package">
+<div class="package-details">
+<h3>Package 3</h3>
+<p>Duration: 14 days</p>
+<p>Destinations: Varanasi, Khajuraho, Udaipur</p>
+<p>Highlights: Spiritual experiences, ancient temples, lake city tour</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+</div>
+<div class="package">
+<div class="package-details">
+<h3>Package 4</h3>
+<p>Duration: 8 days</p>
+<p>Destinations: Goa</p>
+<p>Highlights: Beaches, water sports, vibrant nightlife</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+</div>
+<div class="package">
+<div class="package-details">
+<h3>Package 5</h3>
+<p>Duration: 12 days</p>
+<p>Destinations: Himachal Pradesh</p>
+<p>Highlights: Snow-capped mountains, adventure activities, scenic landscapes</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+
+</div>
+<div class="package">
+<div class="package-details">
+<h3>Package 6</h3>
+<p>Duration: 9 days</p>
+<p>Destinations: Rajasthan</p>
+<p>Highlights: Desert safari, magnificent forts and palaces, cultural experiences</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+</div>
+<div class="package">
+<div class="package-details">
+<h3>Package 7</h3>
+<p>Duration: 6 days</p>
+<p>Destinations: Andaman Islands</p>
+<p>Highlights: Pristine beaches, coral reefs, water activities</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+</div>
+<div class="package">
+<div class="package-details">
+<h3>Package 8</h3>
+<p>Duration: 10 days</p>
+<p>Destinations: Tamil Nadu</p>
+<p>Highlights: Temples, cultural heritage, traditional cuisine</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+</div>
+<div class="package">
+<div class="package-details">
+<h3>Package 9</h3>
+<p>Duration: 7 days</p>
+<p>Destinations: Ladakh</p>
+<p>Highlights: High-altitude landscapes, monasteries, adventure sports</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+</div>
+<div class="package">
+<div class="package-details">
+<h3>Package 10</h3>
+<p>Duration: 11 days</p>
+<p>Destinations: Karnataka</p>
+<p>Highlights: Historical sites, wildlife sanctuaries, hill stations</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+</div>
+<div class="package">
+<div class="package-details">
+<h3>Package 11</h3>
+<p>Duration: 9 days</p>
+<p>Destinations: Odisha</p>
+<p>Highlights: Temples, beaches, tribal culture</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+
+</div>
+<div class="package">
+<div class="package-details">
+<h3>Package 12</h3>
+<p>Duration: 8 days</p>
+<p>Destinations: Punjab</p>
+<p>Highlights: Golden Temple, Punjabi cuisine, cultural experiences</p>
+<a href="#" class="btn">Book Now</a>
+</div>
+</div>
+</div>
+</section>
