@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Indian Tourism</title>
+<link rel="stylesheet" href="styles.css">
+<script src="script.js"></script>
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="destinations.html">Destinations</a></li>
+<li><a href="activities.html">Activities</a></li>
+<li><a href="blog.html">Blog</a></li>
+<li><a href="packages.html">Packages</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+<h1 font="algerian"><marquee>WELCOME TO INDIAN TOURISM</marquee></h1>
+</header>
+<center>
+<!-- Add the image here -->
+<div class="image-container">
+<img src="indiaaa.jpg" alt="Indian Map" width="400">
+</div>
+</center>
+<main>
+<!-- Homepage -->
+<section id="home">
+<div class="container">
+<h1>Welcome to Indian Tourism</h1>
+<p>India, a land of diversity, offers a plethora of cultural, natural, and historical attractions. From the
+majestic palaces of Rajasthan to the serene backwaters of Kerala, India has something for everyone.</p>
+<p>Explore our website to discover the incredible beauty and rich heritage of this enchanting country.</p>
+<button class="btn" onclick="showPopup()">Get Exclusive Offers</button>
+</div>
+</section>
+<section id="about">
+<div class="container">
+<h2>About India</h2>
+<p>India, officially known as the Republic of India, is a country in South Asia. It is the seventh-largest
+country by land area and the second-most populous country in the world, with over 1.3 billion people.</p>
+<p>India is a land of rich cultural heritage and diversity. Its cultural tapestry is woven with a myriad of
+traditions, customs, languages, and religions. From north to south and east to west, each region of India boasts
+its unique cultural practices, art forms, and culinary delights.</p>
+</div>
+
+</section>
+<!-- Contact section -->
+<section id="contact">
+<div class="container">
+<hr color="red">
+<h2>Contact Us</h2>
+<p>We would love to hear from you. Please fill out the form below or contact us using the provided
+details.</p>
+<div class="contact-details">
+<!-- Contact details content here -->
+</div>
+<div class="contact-form">
+<h3>Send us a Message</h3>
+<form action="#" method="POST" id="contactForm">
+<div class="form-group">
+<input type="text" name="name" placeholder="Your Name" required>
+</div>
+<div class="form-group">
+<input type="email" name="email" placeholder="Your Email" required>
+</div>
+<div class="form-group">
+<textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+</div>
+<center>
+<button type="submit" class="btn">Submit</button>
+</center>
+</form>
+</div>
+</div>
+</section>
+<!-- JavaScript code -->
+<script>
+function showPopup() {
+var response = confirm("Would you like to create an account or subscribe to our mailing list?");
+if (response == true) {
+// User wants to create an account
+alert("Please proceed to the account creation page.");
+// Redirect to the account creation page
+window.location.href = "account.html";
+} else {
+// User doesn't want to create an account
+alert("No problem! You can still explore our website for travel inspiration.");
+}
+}
+</script>
+</main>
+</body>
+</html>
